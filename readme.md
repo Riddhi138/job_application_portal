@@ -1,6 +1,7 @@
 # 💼 Job Application Portal
 
 A complete Job Application Portal built using HTML, CSS, JavaScript, PHP, and MySQL – designed to help Admins and Users seamlessly interact in a job-seeking and hiring environment!
+## And to exerience it fully in action start from front.php
 
 ---
 
